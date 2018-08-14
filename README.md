@@ -1,2 +1,5 @@
 # DSC-1
-Belajar GITHUB
+Belajar
+
+
+hari selasa 
